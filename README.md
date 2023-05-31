@@ -1,4 +1,4 @@
-<img  align="right" alt="Coding" src="https://github.com/Gourav629/Gourav629/blob/main/ban.gif"  width=100% height="450" />
+<img  align="right" alt="Coding" src="https://github.com/Gourav629/Gourav629/blob/main/Floating-head-for-GIF-1.gif"  width=100% height="450" />
 <h1 align="center">Hi 👋, I'm Gourav Singh</h1>
 <h3 align="center">A passionate upcoming Data Scientist and Software Developer from India</h3>
 <img height="200" width="350" align="right" alt="Coding" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif"/>

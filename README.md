@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Science, Pandas, Exploratory Data Analysis, Data Visualization**
 
-- 📫 How to reach me **zackroz5@gmail.com**
+- 📫 How to reach me **gouravsingh16102000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
